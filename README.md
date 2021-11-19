@@ -6,4 +6,7 @@ In this Challenge I will...
 - and hope I am doing it right
 
 [Italics](italics.md)
+
 [Bold](bold.md)
+
+[Strike Through](strkthru.md)
